@@ -1,181 +1,123 @@
-[INFO] 2016-03-08 18:05:09,570 thread-1 put url http://pycm.baidu.com:8081/mirror/mirror/page3.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,571 thread-1 put url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,571 thread-1 put url http://pycm.baidu.com:8081/mirror/mirror/page4.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,572 thread-2 saved page http://pycm.baidu.com:8081/mirror/page4.html
-[INFO] 2016-03-08 18:05:09,573 thread-2 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,573 thread-2 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,573 thread-2 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,573 thread-2 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,573 thread-2 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,591 thread-6 getting url http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:09,592 thread-7 getting url http://pycm.baidu.com:8081/mirror/page4.html
-[INFO] 2016-03-08 18:05:09,592 thread-4 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:09,598 thread-6 saved page http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:09,599 thread-6 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page3.html ignore!
-[INFO] 2016-03-08 18:05:09,600 thread-6 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page3.html ignore!
-[INFO] 2016-03-08 18:05:09,600 thread-7 saved page http://pycm.baidu.com:8081/mirror/page4.html
-[INFO] 2016-03-08 18:05:09,601 thread-6 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page3.html ignore!
-[INFO] 2016-03-08 18:05:09,602 thread-7 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,602 thread-3 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:09,602 thread-6 put url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,603 thread-7 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,603 thread-4 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:09,603 thread-6 put url http://pycm.baidu.com:8081/mirror/mirror/page4.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,604 thread-7 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,605 thread-4 put url http://pycm.baidu.com:8081/mirror/mirror/mirror/page1.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,605 thread-5 getting url http://pycm.baidu.com:8081/mirror/mirror/page1.html
-[INFO] 2016-03-08 18:05:09,610 thread-3 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:09,612 thread-0 getting url http://pycm.baidu.com:8081/mirror/mirror/page2.html
-[INFO] 2016-03-08 18:05:09,616 thread-7 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,618 thread-7 find duplicate url http://pycm.baidu.com:8081/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,616 thread-4 put url http://pycm.baidu.com:8081/mirror/mirror/mirror/page2.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,619 thread-4 put url http://pycm.baidu.com:8081/mirror/mirror/mirror/page3.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,619 thread-4 put url http://pycm.baidu.com:8081/mirror/mirror/mirror/mirror/index.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,617 thread-3 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,619 thread-4 put url http://pycm.baidu.com:8081/mirror/mirror/mirror/page4.html, depth 4 to queue
-[INFO] 2016-03-08 18:05:09,620 thread-3 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,620 thread-3 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,620 thread-3 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,620 thread-3 find duplicate url http://pycm.baidu.com:8081/mirror/mirror/page4.html ignore!
-[INFO] 2016-03-08 18:05:09,625 thread-5 saved page http://pycm.baidu.com:8081/mirror/mirror/page1.html
-[INFO] 2016-03-08 18:05:09,625 thread-0 saved page http://pycm.baidu.com:8081/mirror/mirror/page2.html
-[INFO] 2016-03-08 18:05:09,627 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,628 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,629 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,629 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,630 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,630 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,631 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,631 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,631 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:09,631 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,572 thread-1 getting url http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:10,575 thread-2 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:10,580 thread-1 saved page http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:10,580 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,581 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,581 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,581 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,581 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,584 thread-2 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:10,584 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,584 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,585 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,585 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,585 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,618 thread-6 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:10,621 thread-7 getting url http://pycm.baidu.com:8081/2/3/4/index.html
-[INFO] 2016-03-08 18:05:10,624 thread-3 getting url http://pycm.baidu.com:8081/mirror/mirror/page2.html
-[INFO] 2016-03-08 18:05:10,625 thread-4 getting url http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:10,626 thread-6 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:10,627 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,627 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,628 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,628 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,629 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,629 thread-7 saved page http://pycm.baidu.com:8081/2/3/4/index.html
-[INFO] 2016-03-08 18:05:10,629 thread-7 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,629 thread-7 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,632 thread-5 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:10,633 thread-3 saved page http://pycm.baidu.com:8081/mirror/mirror/page2.html
-[INFO] 2016-03-08 18:05:10,634 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,634 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,635 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,635 thread-4 saved page http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:10,635 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,636 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,636 thread-0 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:10,636 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,637 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,638 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,638 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,638 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,641 thread-5 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:10,642 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,643 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,643 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,643 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,644 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,647 thread-0 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:10,648 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,648 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,648 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,649 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:10,649 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,582 thread-1 getting url http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:11,590 thread-2 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:11,593 thread-1 saved page http://pycm.baidu.com:8081/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:11,594 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,594 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,594 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,594 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,594 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,602 thread-2 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:11,603 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,604 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,604 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,604 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,604 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,633 thread-6 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:11,633 thread-7 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:11,639 thread-3 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:11,640 thread-4 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page1.html
-[INFO] 2016-03-08 18:05:11,640 thread-6 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:11,642 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,643 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,643 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,643 thread-7 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:11,644 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,645 thread-7 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,645 thread-5 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page2.html
-[INFO] 2016-03-08 18:05:11,645 thread-6 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,645 thread-7 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,646 thread-7 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,646 thread-7 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,647 thread-7 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,649 thread-3 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:11,650 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,650 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,651 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,651 thread-4 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page1.html
-[INFO] 2016-03-08 18:05:11,651 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,652 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,652 thread-3 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,653 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,653 thread-0 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:11,653 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,654 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,654 thread-4 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,656 thread-5 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page2.html
-[INFO] 2016-03-08 18:05:11,658 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,658 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,658 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,659 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,659 thread-5 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,661 thread-0 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page3.html
-[INFO] 2016-03-08 18:05:11,663 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,663 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,664 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,664 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:11,664 thread-0 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,599 thread-1 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:12,605 thread-2 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:12,611 thread-1 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/mirror/index.html
-[INFO] 2016-03-08 18:05:12,612 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,612 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,612 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,612 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,613 thread-1 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,613 thread-2 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page4.html
-[INFO] 2016-03-08 18:05:12,614 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,614 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,614 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,614 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,615 thread-2 depth:5, over limit, pass
-[INFO] 2016-03-08 18:05:12,647 url_table is empty, thread 7 is holding!
-[INFO] 2016-03-08 18:05:12,648 url_table is empty, thread 6 is holding!
-[INFO] 2016-03-08 18:05:12,657 url_table is empty, thread 3 is holding!
-[INFO] 2016-03-08 18:05:12,658 url_table is empty, thread 4 is holding!
-[INFO] 2016-03-08 18:05:12,659 url_table is empty, thread 5 is holding!
-[INFO] 2016-03-08 18:05:12,668 url_table is empty, thread 0 is holding!
-[INFO] 2016-03-08 18:05:13,523 All job finished
+[INFO] 2016-03-08 19:52:39,484 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,484 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,829 thread-0 getting url http://pycm.baidu.com:8081/mirror/mirror/page2.html
+[INFO] 2016-03-08 19:52:39,829 thread-1 getting url http://pycm.baidu.com:8081/mirror/mirror/page3.html
+[INFO] 2016-03-08 19:52:39,838 thread-1 saved page http://pycm.baidu.com:8081/mirror/mirror/page3.html
+[INFO] 2016-03-08 19:52:39,839 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,839 thread-0 saved page http://pycm.baidu.com:8081/mirror/mirror/page2.html
+[INFO] 2016-03-08 19:52:39,840 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,840 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,841 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,841 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,841 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,842 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,842 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,842 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:39,842 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,438 thread-5 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
+[INFO] 2016-03-08 19:52:40,447 thread-5 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
+[INFO] 2016-03-08 19:52:40,448 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,449 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,449 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,450 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,450 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,471 thread-4 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:40,477 thread-4 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:40,478 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,478 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,478 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,478 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,478 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,487 thread-6 getting url http://pycm.baidu.com:8081/mirror/mirror/page1.html
+[INFO] 2016-03-08 19:52:40,488 thread-3 getting url http://pycm.baidu.com:8081/mirror/mirror/page2.html
+[INFO] 2016-03-08 19:52:40,488 thread-7 getting url http://pycm.baidu.com:8081/mirror/mirror/page3.html
+[INFO] 2016-03-08 19:52:40,488 thread-2 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
+[INFO] 2016-03-08 19:52:40,498 thread-6 saved page http://pycm.baidu.com:8081/mirror/mirror/page1.html
+[INFO] 2016-03-08 19:52:40,498 thread-7 saved page http://pycm.baidu.com:8081/mirror/mirror/page3.html
+[INFO] 2016-03-08 19:52:40,498 thread-2 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/index.html
+[INFO] 2016-03-08 19:52:40,499 thread-3 saved page http://pycm.baidu.com:8081/mirror/mirror/page2.html
+[INFO] 2016-03-08 19:52:40,501 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,503 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,503 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,504 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,504 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,504 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,505 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,505 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,505 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,505 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,505 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,506 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,506 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,506 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,506 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,506 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,507 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,507 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,507 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,507 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,847 thread-1 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:40,848 thread-0 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page1.html
+[INFO] 2016-03-08 19:52:40,856 thread-1 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:40,858 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,859 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,859 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,859 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,859 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,860 thread-0 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page1.html
+[INFO] 2016-03-08 19:52:40,860 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,860 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,861 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,861 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:40,861 thread-0 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,455 thread-5 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page2.html
+[INFO] 2016-03-08 19:52:41,463 thread-5 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page2.html
+[INFO] 2016-03-08 19:52:41,464 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,464 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,465 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,465 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,465 thread-5 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,481 thread-4 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page3.html
+[INFO] 2016-03-08 19:52:41,489 thread-4 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page3.html
+[INFO] 2016-03-08 19:52:41,490 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,491 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,491 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,491 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,491 thread-4 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,511 thread-7 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/mirror/index.html
+[INFO] 2016-03-08 19:52:41,511 thread-2 getting url http://pycm.baidu.com:8081/mirror/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,513 thread-6 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,515 thread-3 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,522 thread-7 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/mirror/index.html
+[INFO] 2016-03-08 19:52:41,523 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,524 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,524 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,525 thread-2 saved page http://pycm.baidu.com:8081/mirror/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,525 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,526 thread-7 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,527 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,528 thread-6 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,528 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,528 thread-3 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,529 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,529 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,530 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,530 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,530 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,531 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,531 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,531 thread-2 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,531 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,531 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,532 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,532 thread-6 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,532 thread-3 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,864 thread-1 getting url http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,865 url_table is empty, thread 0 is holding!
+[INFO] 2016-03-08 19:52:41,871 thread-1 saved page http://pycm.baidu.com:8081/mirror/mirror/page4.html
+[INFO] 2016-03-08 19:52:41,872 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,873 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,873 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,873 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:41,873 thread-1 depth:5, over limit, pass
+[INFO] 2016-03-08 19:52:42,370 All job finished

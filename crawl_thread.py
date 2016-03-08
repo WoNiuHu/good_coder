@@ -7,7 +7,7 @@ import webpage_save
 import url_table
 
 
-lock = threading.Lock()
+lock4queue = threading.Lock()
 #my_lock = thread.allocate_lock()
 
 
@@ -27,16 +27,16 @@ class CrawlThread(threading.Thread):
     def run(self):
         log.info("thead %d is  running!" % self._id)
         while not self.thread_stop:
-            lock.acquire()
+            lock4queue.acquire()
             if url_table.url_queue.empty():
                 log.info("url_table is empty, thread %d is holding!" % self._id)
                 self.status = 0
-                lock.release()
+                lock4queue.release()
                 time.sleep(1)
                 continue
             info = url_table.url_queue.get()
             self.status = 1
-            lock.release()
+            lock4queue.release()
             url = info.get('url')
             depth = info.get('depth')
             log.info('thread-%d getting url %s' % (self._id, url))
@@ -64,10 +64,10 @@ class CrawlThread(threading.Thread):
                 element = {}
                 element['url'] = i
                 element['depth'] = depth
-                lock.acquire()
+                lock4queue.acquire()
                 url_table.url_queue.put(element)
                 self.status = 0
-                lock.release()
+                lock4queue.release()
             time.sleep(self._interval)
 
     def stop(self):
