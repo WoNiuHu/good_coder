@@ -1,8 +1,8 @@
 import urllib2
 import socket
 import re
-import log
 import HTMLParser
+import log
 
 
 class MyParser(HTMLParser.HTMLParser):
@@ -44,7 +44,7 @@ def getWeb(url, pattern, timeout):
     except Exception, e:
         log.error("unkown exception:" + str(e))
         return None
-    contents = f.read()
+    contents = f.read().decode('gbk').encode('utf-8')
     return contents
 
 

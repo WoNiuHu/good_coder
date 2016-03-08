@@ -1,10 +1,10 @@
 import threading
 import time
 import urlparse
+import log
 import webpage_parse
 import webpage_save
 import url_table
-import log
 
 
 lock = threading.Lock()

@@ -1,6 +1,6 @@
 #import sys
-import log
 import urllib2
+import log
 
 
 def save_page(directory, url, contents):

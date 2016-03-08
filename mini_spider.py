@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import argparse
-import config_load
 import log
+import config_load
 import seedfile_load
 import crawl_thread
 
